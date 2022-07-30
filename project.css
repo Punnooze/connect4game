@@ -1,0 +1,18 @@
+.board button{
+  width:100px;
+  height:100px;
+  background-color: gray;
+  border-radius: 50%;
+  border: 4px solid black;
+  margin: 1px;
+}
+/*
+body{
+  background-color: #34bfbb;
+  border: 30px solid #041a2b;
+  padding: 10px;
+  padding-top: 50px;
+  padding-bottom: 80px;
+
+}
+*/
